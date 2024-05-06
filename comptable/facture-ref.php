@@ -12,7 +12,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Voir mes tickets - Analys</title>
+    <title>factures refusés - Analys</title>
 
     <!-- ===============================================-->
     <!--    Favicons-->
@@ -610,7 +610,7 @@
                     </a>
                     <ul class="nav collapse show" id="dashboard">
                       <li class="nav-item">
-                        <a class="nav-link active" href="../comptable.php">
+                        <a class="nav-link " href="../comptable.php">
                           <div class="d-flex align-items-center">
                             <span class="nav-link-text ps-1">Acceuil</span>
                           </div> </a>
@@ -668,7 +668,7 @@
                             </li>
   
                             <li class="nav-item">
-                              <a class="nav-link" href="facture-ref.php">
+                              <a class="nav-link active" href="facture-ref.php">
                                 <div class="d-flex align-items-center">
                                   <span class="nav-link-text ps-1">Refusé</span>
                                 </div> </a>
