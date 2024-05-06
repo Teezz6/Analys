@@ -607,7 +607,7 @@
                       ><!-- more inner pages-->
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link active" href="utilisateur.php">
+                      <a class="nav-link " href="utilisateur.php">
                         <div class="d-flex align-items-center">
                           <span class="nav-link-text ps-1">Utilisateurs</span>
                         </div> </a>
@@ -622,7 +622,7 @@
                           </li>
 
                           <li class="nav-item">
-                            <a class="nav-link" href="n-utilisateur.php">
+                            <a class="nav-link active" href="n-utilisateur.php">
                               <div class="d-flex align-items-center">
                                 <span class="nav-link-text ps-1">Nouveaux utilisateurs</span>
                               </div> </a>
